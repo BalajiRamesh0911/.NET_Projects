@@ -1,0 +1,14 @@
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\bin\Debug\net9.0\Task Manager Application.exe
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\bin\Debug\net9.0\Task Manager Application.deps.json
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\bin\Debug\net9.0\Task Manager Application.runtimeconfig.json
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\bin\Debug\net9.0\Task Manager Application.dll
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\bin\Debug\net9.0\Task Manager Application.pdb
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\Task Manager Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\Task Manager Application.AssemblyInfoInputs.cache
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\Task Manager Application.AssemblyInfo.cs
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\Task Manager Application.csproj.CoreCompileInputs.cache
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\Task Manager Application.dll
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\refint\Task Manager Application.dll
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\Task Manager Application.pdb
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\Task Manager Application.genruntimeconfig.cache
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Task Manager Application\Task Manager Application\obj\Debug\net9.0\ref\Task Manager Application.dll

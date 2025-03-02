@@ -1,0 +1,14 @@
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\bin\Debug\net9.0\Student Grade Management System.exe
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\bin\Debug\net9.0\Student Grade Management System.deps.json
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\bin\Debug\net9.0\Student Grade Management System.runtimeconfig.json
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\bin\Debug\net9.0\Student Grade Management System.dll
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\bin\Debug\net9.0\Student Grade Management System.pdb
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\Student Grade Management System.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\Student Grade Management System.AssemblyInfoInputs.cache
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\Student Grade Management System.AssemblyInfo.cs
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\Student Grade Management System.csproj.CoreCompileInputs.cache
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\Student Grade Management System.dll
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\refint\Student Grade Management System.dll
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\Student Grade Management System.pdb
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\Student Grade Management System.genruntimeconfig.cache
+c:\Users\balaj\OneDrive\Desktop\C# Projects\Student Grade Management System\Student Grade Management System\obj\Debug\net9.0\ref\Student Grade Management System.dll

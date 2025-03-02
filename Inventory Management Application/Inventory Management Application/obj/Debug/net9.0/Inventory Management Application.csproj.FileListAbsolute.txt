@@ -1,0 +1,14 @@
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\bin\Debug\net9.0\Inventory Management Application.exe
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\bin\Debug\net9.0\Inventory Management Application.deps.json
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\bin\Debug\net9.0\Inventory Management Application.runtimeconfig.json
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\bin\Debug\net9.0\Inventory Management Application.dll
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\bin\Debug\net9.0\Inventory Management Application.pdb
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\Inventory Management Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\Inventory Management Application.AssemblyInfoInputs.cache
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\Inventory Management Application.AssemblyInfo.cs
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\Inventory Management Application.csproj.CoreCompileInputs.cache
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\Inventory Management Application.dll
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\refint\Inventory Management Application.dll
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\Inventory Management Application.pdb
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\Inventory Management Application.genruntimeconfig.cache
+C:\Users\balaj\OneDrive\Desktop\C# Projects\Inventory Management Application\Inventory Management Application\obj\Debug\net9.0\ref\Inventory Management Application.dll
