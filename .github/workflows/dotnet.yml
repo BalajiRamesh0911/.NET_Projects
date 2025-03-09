@@ -22,7 +22,7 @@ jobs:
         dotnet-version: '6.0.x'
 
     - name: Restore dependencies
-      run: dotnet restore <path-to-your-solution-or-project-file>
+      run: dotnet restore C:\Users\balaj\OneDrive\Desktop\.NET_Projects\ConsoleApp1\ConsoleApp1.sln
 
     - name: Build
       run: dotnet build <path-to-your-solution-or-project-file> --no-restore
