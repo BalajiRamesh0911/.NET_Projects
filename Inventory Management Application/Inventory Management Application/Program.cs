@@ -32,7 +32,7 @@ class Inventory
     public void AddProduct()
     {
         Console.Write("Enter product name: ");
-        string name = Console.ReadLine();
+        string name = Console.ReadLine() ?? string.Empty;
 
         decimal price;
         while (true)
@@ -54,6 +54,13 @@ class Inventory
                 Console.WriteLine("Invalid input! Please enter a valid integer.");
         }
 
+        // Check if the name is null or empty
+        if (string.IsNullOrEmpty(name))
+        {
+            Console.WriteLine("Product name cannot be empty!");
+            return;
+        }
+
         // Create a new product and add it to the list
         products.Add(new Product(name, price, stock));
         Console.WriteLine("Product added successfully!\n");
@@ -63,7 +70,7 @@ class Inventory
     public void UpdateStock()
     {
         Console.Write("Enter product name: ");
-        string name = Console.ReadLine();
+        string name = Console.ReadLine() ?? string.Empty;
         
         // Find the product in the list
         var product = products.Find(p => p.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
@@ -107,8 +114,8 @@ class Inventory
     public void RemoveProduct()
     {
         Console.Write("Enter product name to remove: ");
-        string name = Console.ReadLine();
-        
+        string name = Console.ReadLine() ?? string.Empty;
+       
         // Find the product in the list
         var product = products.Find(p => p.Name.Equals(name, StringComparison.OrdinalIgnoreCase));
 
